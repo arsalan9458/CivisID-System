@@ -113,5 +113,5 @@ java NationalIDApp
 * Cloud: Sync data via REST APIs (Firebase/AWS).
 * Search: Advanced filtering by Name or Region.
 ##  Developed By 
-* Udayraj Patil (24BCE11159) National ID System — Educational Prototype for e-Governance Concepts
+* Mohd Arsalan(24BHI10027) National ID System — Educational Prototype for e-Governance Concepts
 
