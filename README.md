@@ -105,7 +105,7 @@ java NationalIDApp
 * ![image alt](https://github.com/arsalan9458/CivisID-System/blob/main/Screenshots/Screenshot%202026-03-31%20at%2010.11.27%E2%80%AFPM.png)
 * ![image alt](https://github.com/arsalan9458/CivisID-System/blob/main/Screenshots/Screenshot%202026-03-31%20at%2010.12.52%E2%80%AFPM.png)
 * ![image alt](https://github.com/arsalan9458/CivisID-System/blob/main/Screenshots/Screenshot%202026-03-31%20at%2010.17.17%E2%80%AFPM.png)
-* ![image alt](https://github.com/udayraj-rgb/CivisID-National-ID-Registry-System-24BCE11159/blob/c3a93522b17df42dfeeabab30e737bdb6c4a5395/Screenshots/Screenshot%202025-11-24%20164224.png)
+* ![image alt](https://github.com/arsalan9458/CivisID-System/blob/main/Screenshots/Screenshot%202026-03-31%20at%2010.17.34%E2%80%AFPM.png)
 ##  Future Enhancements
 * GUI: JavaFX/Swing interface for a modern desktop experience.
 * Database: Integration with MySQL/PostgreSQL via JDBC for large-scale usage.
